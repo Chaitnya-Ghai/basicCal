@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">basicCal</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiple">*</string>
+    <string name="divide">/</string>
+</resources>
